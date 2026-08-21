@@ -166,3 +166,40 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .abstract-text p {
     margin-top: 0;
 }
+/* Thesis abstract toggle */
+
+.publication-details summary {
+    cursor: pointer;
+    list-style: none;
+    white-space: nowrap;
+}
+
+.publication-details summary::-webkit-details-marker {
+    display: none;
+}
+
+.publication-details summary::before {
+    content: "▸";
+    font-size: 0.75em;
+    margin-right: 10px;
+}
+
+/* CLOSED: show Show abstract, hide Hide abstract */
+.hide-abstract {
+    display: none;
+}
+
+/* OPEN: hide Show abstract */
+.publication-details[open] .show-abstract {
+    display: none;
+}
+
+/* OPEN: show Hide abstract */
+.publication-details[open] .hide-abstract {
+    display: inline;
+}
+
+/* Change arrow when open */
+.publication-details[open] summary::before {
+    content: "▾";
+}
