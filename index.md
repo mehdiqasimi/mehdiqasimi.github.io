@@ -4,12 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Doctoral Researcher at Tampere University working in the field of cold spray, surface engineering, and materials characterization. My research focuses on inner-diameter cold spray, particle impact behavior, coating characterization, and process optimization.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Cold Spray
+- Surface Engineering
+- Additive Manufacturing
+- Materials Characterization
+- Particle Impact Diagnostics
+- Process Modelling and Optimization
+
+## Research
+My current research focuses on understanding particle deposition and coating formation on confined and curved surfaces using inner-diameter cold spray.
 
 ## News
 
