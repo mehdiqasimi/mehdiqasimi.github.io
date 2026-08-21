@@ -90,6 +90,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publication-title {
     flex: 1;
     line-height: 1.35;
+    font-size: 1.10rem;
 }
 
 /* Blue clickable title */
@@ -117,6 +118,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
     cursor: pointer;
     list-style: none;
     white-space: nowrap;
+    font-size: 1.05rem;
 }
 
 .publication-details summary::-webkit-details-marker {
