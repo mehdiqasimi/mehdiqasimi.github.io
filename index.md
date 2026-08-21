@@ -11,8 +11,6 @@ My current research focuses on understanding the relationships between cold spra
 
 ## Publications
 
-## Publications
-
 <div class="publication-entry">
 
 <div class="publication-header">
