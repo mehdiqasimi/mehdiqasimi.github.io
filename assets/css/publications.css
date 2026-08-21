@@ -80,3 +80,98 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+
+/* Custom thesis publication */
+
+.publication-entry {
+    padding: 12px 0 16px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.publication-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.publication-title {
+    flex: 1;
+    line-height: 1.35;
+    font-size: 1.10rem;
+}
+
+.publication-title a {
+    color: #39c;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.publication-title a:visited {
+    color: #39c;
+}
+
+.publication-title a:hover {
+    text-decoration: underline;
+}
+
+.publication-details {
+    min-width: 130px;
+    margin-left: auto;
+}
+
+.publication-details summary {
+    cursor: pointer;
+    list-style: none;
+    white-space: nowrap;
+    font-size: 1.05rem;
+}
+
+.publication-details summary::-webkit-details-marker {
+    display: none;
+}
+
+.publication-details summary::before {
+    content: "▸";
+    font-size: 0.75em;
+    margin-right: 10px;
+}
+
+/* Closed state */
+.publication-details .show-abstract {
+    display: inline !important;
+}
+
+.publication-details .hide-abstract {
+    display: none !important;
+}
+
+/* Open state */
+.publication-details[open] .show-abstract {
+    display: none !important;
+}
+
+.publication-details[open] .hide-abstract {
+    display: inline !important;
+}
+
+.publication-details[open] summary::before {
+    content: "▾";
+}
+
+.publication-info {
+    margin: 5px 0 0 8px;
+    color: #777;
+}
+
+.abstract-text {
+    border-left: 3px solid #ccc;
+    padding: 3px 20px;
+    margin-top: 20px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.abstract-text p {
+    margin-top: 0;
+}
