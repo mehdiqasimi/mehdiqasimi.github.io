@@ -9,7 +9,7 @@ I am a Doctoral Researcher at Tampere University working in the field of cold sp
 ## Research
 My current research focuses on understanding the relationships between cold spray processing conditions, particle behaviour, and coating properties.
 
-## Publications
+## Scientific Contributions
 
 <div class="publication-entry">
 
