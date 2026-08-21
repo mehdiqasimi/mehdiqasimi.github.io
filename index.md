@@ -17,7 +17,7 @@ My current research focuses on understanding the relationships between cold spra
 
 <div class="publication-title">
 <a href="https://urn.fi/URN:NBN:fi:tuni-2025112410843" target="_blank" rel="noopener">
-<strong>Investigation of In-flight Particles Behavior and Coating Property Correlation for Inner Diameter Cold Spray</strong>
+Investigation of In-flight Particles Behavior and Coating Property Correlation for Inner Diameter Cold Spray
 </a>
 </div>
 
