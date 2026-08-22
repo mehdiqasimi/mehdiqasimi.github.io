@@ -31,7 +31,7 @@ In-Flight Particles Behavior and Coating Property Correlation for Inner Diameter
 <div class="abstract-text">
 
 <p>
-My master's thesis was presented at ICSC, where Yaman gave a talk on the relationship between in-flight particle behavior and coating properties in inner-diameter cold spray. The talk introduced cold spray and inner-diameter coating applications, described the experimental setup — an ID cold spray gun paired with diagnostic cameras also the briefing the results, how particle velocity, bow-shock effects, deposition thickness, porosity and coating microstructure are shaped by these process parameters.
+My master's thesis was presented at ICSC, where Yaman gave a talk on the relationship between in-flight particle behavior and coating properties in inner-diameter cold spray. The talk introduced cold spray and inner-diameter coating applications, described the experimental setup i.e. an ID cold spray gun paired with diagnostic cameras also the briefing the results, how particle velocity, bow-shock effects, deposition thickness, porosity and coating microstructure are shaped by these process parameters.
 </p>
 
 </div>
@@ -49,9 +49,7 @@ International Cold Spray Conference &amp; Expo 2026, Chennai, India &middot; 25 
 ## Scientific Contributions
 
 <div class="publication-entry">
-
 <div class="publication-header">
-
 <div class="publication-title">
 <a href="https://urn.fi/URN:NBN:fi:tuni-2025112410843" target="_blank" rel="noopener">
 Investigation of In-flight Particles Behavior and Coating Property Correlation for Inner Diameter Cold Spray
