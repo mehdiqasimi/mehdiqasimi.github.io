@@ -76,15 +76,21 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 /* Custom publication layout */
 
 .publication-entry {
+    width: 100%;
+    box-sizing: border-box;
     padding: 12px 0 16px 0;
     border-bottom: 1px solid #e5e5e5;
 }
 
 .publication-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 30px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: start;
+    column-gap: 30px;
+    width: 100%;
+    box-sizing: border-box;
+    border-left: 3px solid #ccc;
+    padding-left: 20px;
 }
 
 .publication-title {
@@ -156,8 +162,9 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 /* Expanded abstract */
 .abstract-text {
-    border-left: 3px solid #ccc;
-    padding: 3px 20px;
+    grid-column: 1 / -1;
+    grid-row: 2;
+    padding: 3px 0;
     margin-top: 20px;
     line-height: 1.6;
     text-align: justify;
