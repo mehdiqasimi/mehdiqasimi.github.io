@@ -20,7 +20,7 @@ My research focuses on confined coating deposition, particle impact behavior, co
 <a href="https://researchportal.tuni.fi/en/activities/in-flight-particles-behavior-and-coating-property-correlation-for/" target="_blank" rel="noopener">
 In-Flight Particles Behavior and Coating Property Correlation for IDCS
 </a>
-<span class="publication-authors">presented by <a href="https://researchportal.tuni.fi/en/persons/yaman-sahu/" target="_blank" rel="noopener">Yaman Sahu</a>,<a href="https://researchportal.tuni.fi/en/persons/heli-koivuluoto/" target="_blank" rel="noopener">Heli Koivuluoto</a>(contributor)</span>
+<span class="publication-authors">presented by <a href="https://researchportal.tuni.fi/en/persons/yaman-sahu/" target="_blank" rel="noopener">Yaman Sahu</a>, <a href="https://researchportal.tuni.fi/en/persons/heli-koivuluoto/" target="_blank" rel="noopener">Heli Koivuluoto</a>(contributor)</span>
 </div>
 
 <details class="publication-details">
