@@ -23,7 +23,7 @@ Started my doctoral studies at Tampere University, joining the Materials Charact
 </div>
 
 <p class="publication-info">
-2026
+TTITO Doctoral School, ENS Faculty, 2026
 </p>
 
 </div>
