@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Doctoral Researcher at Tampere University working in the field of cold spray, surface engineering and materials characterization. 
 
-My research focuses on confined coating deposition, particle impact behavior, coating characterization and process optimization.
+My research focuses on confined space coating deposition, particle impact behavior, coating characterization and process optimization.
 
 [My CV is here.]({{ site.cv_link }})
 
