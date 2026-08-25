@@ -10,7 +10,7 @@ My research focuses on confined coating deposition, particle impact behavior, co
 
 [My CV is here.]({{ site.cv_link }})
 
-## News
+## Recent
 
 <div class="publication-entry">
 
