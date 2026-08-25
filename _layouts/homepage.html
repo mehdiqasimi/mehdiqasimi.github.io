@@ -77,7 +77,7 @@
         {% endif %}
 
         {% if site.email %}
-        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        <a href="mailto:{{ site.email }}" class="contact-email">{{ site.email | replace: '@', ' (at) ' }}</a>
         {% endif %}
 
         <br>
