@@ -12,7 +12,21 @@ My research focuses on confined coating deposition, particle impact behavior, co
 
 ## Recent
 
-**2026** - Started my doctoral studies at Tampere University, joining the Materials Characterization / Coating Technologies Group.
+<div class="publication-entry">
+
+<div class="publication-header">
+
+<div class="publication-title">
+Started my doctoral studies at Tampere University, joining the Materials Characterization / Coating Technologies Group.
+</div>
+
+</div>
+
+<p class="publication-info">
+2026
+</p>
+
+</div>
 
 <div class="publication-entry">
 
