@@ -49,7 +49,7 @@ International Cold Spray Conference &amp; Expo 2026, Chennai, India &middot; 25 
 
 </div>
 
-## Scientific Contributions
+## Contributions
 
 <div class="publication-entry">
 <div class="publication-header">
